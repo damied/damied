@@ -1,5 +1,6 @@
-# 👋 Hi, I'm [damied]!
+# 👋 Hi, I'm damied!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 
 Aspiring **Cloud Engineer** with a strong foundation in cloud infrastructure, automation, and DevOps best practices. I am committed to building secure, scalable, and resilient cloud solutions that drive business value and operational excellence.
 
@@ -35,7 +36,7 @@ Aspiring **Cloud Engineer** with a strong foundation in cloud infrastructure, au
 ---
 
 ## 📫 How to Reach Me
-- Email: [mosesdamola@gmail.com]
+- Email: mosesdamola@gmail.com
 
 ---
 
