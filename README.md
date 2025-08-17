@@ -8,7 +8,7 @@ Aspiring **Cloud Engineer** with a strong foundation in cloud infrastructure, au
 - **Infrastructure as Code:** Terraform, AWS CloudFormation
 - **DevOps Tools:** Docker, Kubernetes, GitHub Actions, Jenkins Ansible
 - **Programming:** Bash, PowerShell
-- **Monitoring:** Prometheus, Grafana, AWS CloudWatch
+- **Monitoring:** AWS CloudWatch
 - **Networking:** VPC, Load Balancers, Security Group
 
 ## 🎯 Professional Development
