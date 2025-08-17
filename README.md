@@ -36,7 +36,6 @@ Aspiring **Cloud Engineer** with a strong foundation in cloud infrastructure, au
 
 ## 📫 How to Reach Me
 - Email: [mosesdamola@gmail.com]
-- LinkedIn: [Damola Moses]
 
 ---
 
